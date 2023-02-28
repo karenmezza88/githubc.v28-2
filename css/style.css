@@ -1,0 +1,23 @@
+*{font-optical-sizing: auto; font-family: "Roboto Condensed rev=1"; font-weight: 800;
+     font-style: italic; font-stretch: normal; line-height: initial;}
+
+        
+     
+
+.contenedor{
+    max-width: 50% ;
+    margin: 0 auto;
+    border: solid 4px;
+    color: black;
+    padding: 40px;
+    padding-bottom: 90px;
+    padding-top: 10px;
+    
+
+}
+
+.borde {
+    border-bottom: solid 3px;
+    color: violet;
+    padding-top: 15px;
+}
